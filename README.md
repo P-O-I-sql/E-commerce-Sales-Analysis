@@ -7,10 +7,10 @@ Sales data was originally stored across multiple Excel workbooks, with individua
 
 Insights and deliverables from this project are structured around the following key areas:
 
->  • **Data Cleaning & Standardization:** Raw sales data was cleaned using Power Query by reinforcing correct data types, standardizing text fields (such as country names and product attributes), handling null values, and resolving common data quality issues. <br>
->  • **Data Integration:** Sales data from multiple country worksheets and Excel files were appended and consolidated into a unified FactSales table, ensuring consistency and reliability across regions. <br>
->  • **Data Quality Assurance:** Duplicate records—including repeated rows and redundant columns—were identified and removed to maintain data accuracy and integrity. <br>
->  • **Business Metrics & KPIs:** Core performance metrics were calculated, including Total Sales, Net Sales, Total Orders, and Average Order Value (AOV), providing a clear view of commercial performance. <br>
->  • **Executive Dashboard Delivery:** A clear, single-page Power BI dashboard was developed, enabling stakeholders to monitor global performance, analyze customer behavior, and identify product trends at a glance. <br>
+-  • **Data Cleaning & Standardization:** Raw sales data was cleaned using Power Query by reinforcing correct data types, standardizing text fields (such as country names and product attributes), handling null values, and resolving common data quality issues. <br>
+-  • **Data Integration:** Sales data from multiple country worksheets and Excel files were appended and consolidated into a unified FactSales table, ensuring consistency and reliability across regions. <br>
+-  • **Data Quality Assurance:** Duplicate records—including repeated rows and redundant columns—were identified and removed to maintain data accuracy and integrity. <br>
+-  • **Business Metrics & KPIs:** Core performance metrics were calculated, including Total Sales, Net Sales, Total Orders, and Average Order Value (AOV), providing a clear view of commercial performance. <br>
+-  • **Executive Dashboard Delivery:** A clear, single-page Power BI dashboard was developed, enabling stakeholders to monitor global performance, analyze customer behavior, and identify product trends at a glance. <br>
 
 This project transforms fragmented raw data into actionable insights, empowering leadership with a centralized analytics solution for improved strategic decision-making.
