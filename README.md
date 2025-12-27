@@ -33,8 +33,8 @@ Key performance indicators for the period include total sales of approximately $
 
 <p align="center">
   <img src="https://github.com/P-O-I-sql/E-commerce-Sales-Analysis/blob/6892c3337553d014b7b58246820fffdfd46abb6b/E-commerce%20Sales%20Dashboard.png" alt="E-commerce Sales Dashboard" height = "500" width="700"><br>
-  <em>[Download the dashboard here](https://raw.githubusercontent.com/P-O-I-sql/E-commerce-Sales-Analysis/main/E-commerce%20Sales%20Analysis.pbix)
-</em>
+  <em> E-commerce Sales Analysis dashboard (Power BI) </em>
 </p>
+Download the dashboard [here](https://raw.githubusercontent.com/P-O-I-sql/E-commerce-Sales-Analysis/main/E-commerce%20Sales%20Analysis.pbix)
 
 
