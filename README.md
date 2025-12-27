@@ -17,3 +17,5 @@ This project transforms fragmented raw data into actionable insights, empowering
 
 # Data Structure 
 The data model consists of 4 tables; FactSales, dimCustomer, dimDate, dimProduct
+
+![image alt](https://github.com/P-O-I-sql/E-commerce-Sales-Analysis/blob/467242c532783cbf8ca9167dc76a67eeae9bbb71/E-commerce%20sales%20ERD.png)
