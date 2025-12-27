@@ -38,6 +38,30 @@ You can Download the dashboard **[here](https://raw.githubusercontent.com/P-O-I-
   <em> E-commerce Sales Analysis dashboard (Power BI) </em>
 </p>
 
+## Key Findings & Insights
+**Global Performance:**
+- Across all markets, the company generated approximately $91.83M in total sales and $76.65M in net sales, supported by nearly 100,000 total orders.
+- Sales performance varies significantly by region, with a small number of countries contributing a disproportionate share of total revenue.
+- The United States consistently outperformed all other regions across the entire period analyzed.
+- Sales peaked in Q2 2022 and reached their lowest point in Q1 2021.
+- From Q1 2020 to Q4 2024, sales exhibited consistent fluctuations with recurring seasonal declines in Q3 and Q4, followed by recovery in Q1 of the subsequent year.
+
+**Customer Behavior:**
+- Customer purchasing behavior appears inconsistent, as reflected in fluctuating year-over-year sales trends.
+- Seasonal purchasing patterns play a significant role in customer activity, contributing to periodic spikes and declines in sales.
+- These patterns suggest opportunities to improve customer engagement, retention, and purchase frequency during off-peak periods.
+
+**Product Trends:**
+- Revenue contribution is not concentrated in a small set of products; instead, it is evenly distributed across the product portfolio.
+- Memory Card 128GB is the highest revenue-contributing product, while Children’s Books contribute the least (~1.89%) and have experienced a steady decline in sales since Q4 2020.
+- Product sales trends fluctuate consistently across all items, with sharp declines typically occurring after peak sales periods, reinforcing the presence of seasonality.
+- Most products contribute approximately 1.89%–2.12% of total revenue, indicating a balanced and resilient product mix with minimal single-product risk.
+
+**Recommendations**
+- Conduct a deeper review of regional performance, particularly in the United Kingdom and Australia, as a single country accounts for approximately 70% of total sales, while other regions underperform.
+- Perform further analysis to identify key drivers behind seasonal demand and inconsistent sales trends.
+- Evaluate the effectiveness of Cash on Delivery payment methods, as they contribute less than 5% of total transactions and may be operationally inefficient.
+- Develop targeted customer engagement strategies to improve customer retention, customer lifetime value (CLV), and order frequency, especially during low-demand periods.
 
 
 
