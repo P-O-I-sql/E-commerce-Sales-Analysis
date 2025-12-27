@@ -39,6 +39,12 @@ You can Download the dashboard **[here](https://raw.githubusercontent.com/P-O-I-
 </p>
 
 ## Key Findings & Insights
+
+<p align = "center">
+  <img src="https://github.com/P-O-I-sql/E-commerce-Sales-Analysis/blob/083e3d1c41d915cb1caa66d4b9f81fc38a0a678d/E-commerce%20Sales%20trend.png" alt = "E-commerce Sales trend"
+  height = "500" width = "700"> <br>
+  <em> E-commerce Sales trend </em>
+</p>
 **Global Performance:**
 - Across all markets, the company generated approximately $91.83M in total sales and $76.65M in net sales, supported by nearly 100,000 total orders.
 - Sales performance varies significantly by region, with a small number of countries contributing a disproportionate share of total revenue.
