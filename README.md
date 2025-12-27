@@ -18,7 +18,7 @@ The data model consists of 4 tables; FactSales, dimCustomer, dimDate, dimProduct
 
 <p align = "center">
   <img src="https://github.com/P-O-I-sql/E-commerce-Sales-Analysis/blob/467242c532783cbf8ca9167dc76a67eeae9bbb71/E-commerce%20sales%20ERD.png" alt = "E-commerce Sales ERD"
-  height = "500" width = "700"> <br>
+  height = "300" width = "700"> <br>
   <em> E-commerce Sales ERD </em>
 </p>
 
