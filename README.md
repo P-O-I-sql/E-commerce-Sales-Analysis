@@ -14,3 +14,6 @@ Insights and deliverables from this project are structured around the following 
 - **Executive Dashboard Delivery:** A clear, single-page Power BI dashboard was developed, enabling stakeholders to monitor global performance, analyze customer behavior, and identify product trends at a glance. <br>
 
 This project transforms fragmented raw data into actionable insights, empowering leadership with a centralized analytics solution for improved strategic decision-making.
+
+# Data Structure 
+The data model consists of 4 tables; FactSales, dimCustomer, dimDate, dimProduct
