@@ -63,7 +63,7 @@ You can Download the dashboard **[here](https://raw.githubusercontent.com/P-O-I-
 - Product sales trends fluctuate consistently across all items, with sharp declines typically occurring after peak sales periods, reinforcing the presence of seasonality.
 - Most products contribute approximately 1.89%–2.12% of total revenue, indicating a balanced and resilient product mix with minimal single-product risk.
 
- **Recommendations**
+ **Recommendations** <br>
 Based on the conducted analysis and insights, the following actions are recommended: <br>
 
 - Conduct a deeper review of regional performance, particularly in the United Kingdom and Australia, as a single country accounts for approximately 70% of total sales, while other regions underperform.
