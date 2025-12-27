@@ -19,3 +19,12 @@ The data model consists of 4 tables; FactSales, dimCustomer, dimDate, dimProduct
 ![image alt](https://github.com/P-O-I-sql/E-commerce-Sales-Analysis/blob/467242c532783cbf8ca9167dc76a67eeae9bbb71/E-commerce%20sales%20ERD.png)
 
 # Executive Summary
+![image alt](https://github.com/P-O-I-sql/E-commerce-Sales-Analysis/blob/6892c3337553d014b7b58246820fffdfd46abb6b/E-commerce%20Sales%20Dashboard.png)
+
+## Overview of Findings
+
+Overall company sales have exhibited moderate fluctuations from January 2020 to the present, reaching a peak in Q2 2020 before declining to a trough in Q4 2021. Since then, performance has shown recurring seasonal patterns, with sales typically declining between Q3 and Q4 each year. An exception to this trend occurred in 2023, where the decline shifted into Q1 2024.
+
+These seasonal downturns appear to be driven in part by reduced demand in specific product categories, notably books, which consistently experience year-over-year sales declines in Q4. Despite these fluctuations, the business has maintained a substantial sales footprint over the period analyzed.
+
+Key performance indicators for the period include total sales of approximately $91.83M, net sales of $76.65M, and nearly 100,000 total orders, resulting in an average order value (AOV) of $918.26.
