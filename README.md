@@ -3,8 +3,7 @@ Click any section in the navigation above to jump directly to that part of the p
 [Project Overview](#project-overview) •
 [Data Structure](#data-structure) •
 [Executive Summary](#executive-summary) •
-[Overview of Findings](#overview-of-findings)
-
+[Overview of Findings](#overview-of-findings) •
 [Key Findings & Insights](#key-findings--insights)
 
 # Project Overview </ln>
