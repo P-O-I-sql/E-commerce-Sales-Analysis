@@ -1,9 +1,9 @@
-## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Data Structure](#data-structure)
-- [Executive Summary](#executive-summary)
-  - [Overview of Findings](#overview-of-findings)
-  - [Key Findings & Insights](#key-findings--insights)
+## 📌 Navigation
+[Project Overview](#project-overview) •
+[Data Structure](#data-structure) •
+[Executive Summary](#executive-summary) •
+[Overview of Findings](#overview-of-findings) •
+[Key Findings & Insights](#key-findings--insights)
 
 # Project Overview </ln>
 OmniCore Retail is an international e-commerce company that sells consumer electronic products across multiple countries through its digital platforms. As the company expands globally, management requires a unified and reliable view of sales performance to better understand customer behavior, product trends, and overall business health.
