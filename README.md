@@ -1,20 +1,8 @@
 ## 📌 Navigation
+Click any section in the navigation above to jump directly to that part of the project.<br>
 [Project Overview](#project-overview) •
 [Data Structure](#data-structure) •
 [Executive Summary](#executive-summary)
-
-[Overview of Findings](#overview-of-findings) •
-[Key Findings & Insights](#key-findings--insights)
-
-## 📌 Navigation
-| [Project Overview](#project-overview) | [Data Structure](#data-structure) | [Executive Summary](#executive-summary) |
-|---|---|---|
-| [Overview of Findings](#overview-of-findings) | [Key Findings & Insights](#key-findings--insights) |  |
-
-## 📌 Navigation
-[Project Overview](#project-overview) •
-[Data Structure](#data-structure) •
-[Executive Summary](#executive-summary)<br>
 
 [Overview of Findings](#overview-of-findings) •
 [Key Findings & Insights](#key-findings--insights)
